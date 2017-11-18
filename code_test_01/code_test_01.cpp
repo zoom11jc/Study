@@ -7,5 +7,6 @@
 int main()
 {
 	printf("Hello, jungchan kim\n");
+    printf("Did it using Github\n");
 }
 
